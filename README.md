@@ -1,4 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ali</h1>
+<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alikeremov&label=Profile%20views&color=0e75b6&style=flat" alt="alikeremov" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikeremov&show_icons=true&locale=en&layout=compact" alt="alikeremov" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikeremov&show_icons=true&locale=en" alt="alikeremov" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikeremov&" alt="alikeremov" /></p
 
 <!--
 **Alikeremov/Alikeremov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
